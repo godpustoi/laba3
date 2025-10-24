@@ -18,4 +18,4 @@ else:
 avg_price = pay / used
 
 print("Предыдущее Текущее Использовано К оплате Ср. цена m^3")
-print(f"{prev} {curr} {used} {pay:.3f} {avg_price:.2f}")
+print(f"{prev} {curr} {used} {pay:.2f} {avg_price:.2f}")
